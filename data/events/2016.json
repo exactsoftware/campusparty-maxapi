@@ -1,0 +1,17 @@
+[
+    {
+        "event": "FORMULA 1 AUSTRALIA",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-03-18",
+                "time_from": "01:30+02:00",
+                "time_to": "03:00+02:00"
+            }
+        },
+        "track": {
+            "description": "The Melbourne Grand Prix Circuit is a 3.5 mile long street circuit that hosts the Australian Grand Prix since 1996. It is located in the city’s Albert Park with the track using everyday sections of the roads circling the Albert Park lake.",
+            "history": "For almost two decades, Albert Park traditionally hosts the opening Grand Prix of the Formula 1 World Championship. (Non) Championship Grand Prix racing can be traced back to the early ‘50s with Stirling Moss among the winners. However, it was not until Jeff Kennett became premier of the State of Victoria in 1992, that efforts were made to move the Australian Grand Prix from Adelaide to Melbourne. Kennet negotiated a deal with F1 supremo Bernie Ecclestone and an agreement was reached in 1993. Nevertheless,  the first event did not happen until the contract with Adelaide expired in 1996. Rebuilding Albert Park caused opposition and protests but the first race was a success.",
+            "qoute": "The biggest challenge that Albert Park offers is the first corner. It’s very bumpy and it’s easy to lock up the front wheels. I like that the track is partially a street course with not a lot of run-off."
+        }
+    }
+]
