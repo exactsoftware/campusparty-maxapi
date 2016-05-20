@@ -1,4 +1,4 @@
-# Max-bot Challenge API
+# Maximizing Max Challenge - Bot
 
 ## Introduction
 Max Verstappen gained a lot popularity in last year with his appearance in the Formula 1. With his popularity comes a big fan base who is interested in his carreer and his fans are emailing him all kind of questions the whole day.
@@ -15,12 +15,13 @@ Write a bot who is capable of answering the questions from Max's fans. The answe
 ### Judgement
 - We will ask 10 questions by sending requests to your bot's endpoint.
 - We expect that your endpoint is giving the correct answers to these questions within 5 seconds.
-- For each correct answer we will give you a point.
+- If your bot give content back which contains the right answer you will recieve __1 point__.
+- If your bot gives exactly the right answer you will recieve __3 points__.
 
 ## Max API
 The Max content API has the endpoints where you can use to harvest the answers.
-- News: http://13.94.194.106/news
-- Events: http://13.94.194.106/events/2016
+- News: http://maxbotchallenge.azurewebsites.net/news
+- Events: http://maxbotchallenge.azurewebsites.net/events/2016
 
 ## Samples
 We will not let you getting started in the dark. We will provide you with some sample questions and an application which you can take as starting point.
@@ -38,4 +39,4 @@ These are some questions which you can expect.
   _8th_
 
 ### Application
-Take a look at [this bot](https://github.com/exactsoftware/campusparty-maxbot) which already know a couple of questions but without any logic. You can take this application as a start or as reference.
+Take a look at [this bot](https://github.com/exactsoftware/maxbotchallenge-sample) which already know a couple of questions but without any logic. You can take this application as a start or as reference.
