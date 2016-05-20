@@ -38,5 +38,7 @@ These are some questions which you can expect.
 - Which place did you end in China?  
   _8th_
 
+> All answers can be harvested from the content provided by the Max API. 
+
 ### Application
 Take a look at [this bot](https://github.com/exactsoftware/maxbotchallenge-sample) which already know a couple of questions but without any logic. You can take this application as a start or as reference.
