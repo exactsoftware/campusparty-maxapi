@@ -10,7 +10,7 @@ Write a bot who is capable of answering the questions from Max's fans. The answe
 ### Participate
 - Expose an endpoint which is accessible using HTTP. (example: http://myawesomemaxbot.com?question=)
 - Build your bot to find the answers to questions directed to Max
-- Submit your endpoint before ....
+- Submit your endpoint using this form [http://bit.ly/maxchallenge-bot](http://bit.ly/maxchallenge-bot) before Friday May 27 
 
 ### Judgement
 - We will ask 10 questions by sending requests to your bot's endpoint.
@@ -20,8 +20,8 @@ Write a bot who is capable of answering the questions from Max's fans. The answe
 
 ## Max API
 The Max content API has the endpoints where you can use to harvest the answers.
-- News: http://maxbotchallenge.azurewebsites.net/news
-- Events: http://maxbotchallenge.azurewebsites.net/events/2016
+- News: http://maxchallenge-bot.azurewebsites.net/news
+- Events: http://maxchallenge-bot.azurewebsites.net/events/2016
 
 ## Samples
 We will not let you getting started in the dark. We will provide you with some sample questions and an application which you can take as starting point.
