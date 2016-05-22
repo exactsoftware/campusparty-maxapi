@@ -34,6 +34,6 @@ app.get('/events/:year', function (req, res) {
   sendData(res, 'events/' + req.params.year + '.json');
 });
 
-app.listen(3000, function () {
+app.listen(process.env.port || 3000, function () {
   console.log('Example app listening on port 3000!');
 });
