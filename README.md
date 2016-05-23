@@ -10,13 +10,16 @@ Write a bot who is capable of answering the questions coming from Max's fans. Th
 ### Participate
 - Expose an endpoint which is accessible using HTTP. (example: http://myawesomemaxbot.com?question=)
 - Build your bot to find the answers to questions directed to Max
-- Submit your endpoint using this form [http://bit.ly/maxchallenge-bot](http://bit.ly/maxchallenge-bot) before Friday May 27 16:00 
+- Submit your endpoint using this form [http://bit.ly/maxchallenge-bot](http://bit.ly/maxchallenge-bot) _Note that you can only submit once! The deadline is Friday May 27 16:00_
+- Please submit your code to Github....
 
 ### Judgement
 - We will ask 10 questions by sending requests to your bot's endpoint.
 - We expect that your endpoint is giving the correct answers to these questions within 5 seconds.
 - If your bot give content back which contains the right answer you will recieve __1 point__.
 - If your bot gives exactly the right answer you will recieve __3 points__.
+- In case of equal scores, the time taken by your bot to provide the answers will be taken.
+- It’s not permitted to put the answers inside your code.
 
 ## Max API
 The Max content API has the endpoints where you can use to harvest the answers.
