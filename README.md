@@ -2,10 +2,10 @@
 
 ## Introduction
 Max Verstappen gained a lot popularity in last year with his appearance in the Formula 1. With his popularity comes a big fan base who is interested in his carreer and his fans are emailing him all kind of questions the whole day.
-Max likes the personal touch with his fans and would like to answer his fan, but he has a very busy schedule with preparing for races. Because of this he is very interested in a solution to automatically answering his fan base.
+Max likes the personal touch with his fans and would like to answer them, but he has a very busy schedule with preparing for races. Because of this he is very interested in a solution to automatically answering the emails from his fans.
 
 ## Challenge
-Write a bot who is capable of answering the questions from Max's fans. The answers to the questions can be found by using Max's content REST API 
+Write a bot who is capable of answering the questions coming from Max's fans. The answers to the questions can be found by using Max's content REST API 
 
 ### Participate
 - Expose an endpoint which is accessible using HTTP. (example: http://myawesomemaxbot.com?question=)
@@ -24,7 +24,7 @@ The Max content API has the endpoints where you can use to harvest the answers.
 - Events: http://maxchallenge-bot.azurewebsites.net/events/2016
 
 ## Samples
-We will not let you getting started in the dark. We will provide you with some sample questions and an application which you can take as starting point.
+We will not let you getting started in the dark and provided you with some sample questions and an application which you can take as starting point.
 
 ### Questions
 These are some questions which you can expect.
