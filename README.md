@@ -8,7 +8,9 @@ Max likes the personal touch with his fans and would like to answer them, but he
 Write a bot who is capable of answering the questions coming from Max's fans. The answers to the questions can be found by using Max's content REST API 
 
 ### Participate
-- Clone the sample application (nodejs, csharp)
+- Clone one of the sample applications
+  - C#: https://github.com/exactsoftware/maxbotchallenge-csharp
+  - Node.js: https://github.com/exactsoftware/maxbotchallenge-nodejs
 - Build your bot to find the answers to questions directed to Max
 - Push your bot to the given team git repository
 
