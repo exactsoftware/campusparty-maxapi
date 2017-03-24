@@ -1,0 +1,70 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "sitePrefix": {
+      "defaultValue": "maxchallenge",
+      "type": "string"
+    },
+    "teamCount": {
+      "type": "int",
+      "defaultValue": 2
+    }
+  },
+  "variables": {
+    "sitePlanName": "[parameters('sitePrefix')]",
+    "sitePrefix": "[concat(parameters('sitePrefix'), '-team')]"
+  },
+  "resources": [
+    {
+      "type": "Microsoft.Web/serverfarms",
+      "sku": {
+        "name": "F1",
+        "tier": "Free",
+        "size": "F1",
+        "family": "F",
+        "capacity": 0
+      },
+      "kind": "app",
+      "name": "[variables('sitePlanName')]",
+      "apiVersion": "2015-08-01",
+      "location": "West Europe",
+      "properties": {
+        "name": "[variables('sitePlanName')]",
+        "numberOfWorkers": 0
+      },
+      "dependsOn": []
+    },
+    {
+      "type": "Microsoft.Web/sites",
+      "kind": "app",
+      "name": "[concat(variables('sitePrefix'), copyIndex())]",
+      "apiVersion": "2015-08-01",
+      "location": "West Europe",
+      "copy": {
+        "name": "websitescopy",
+        "count": "[parameters('teamCount')]"
+      },
+      "properties": {
+        "name": "[concat(variables('sitePrefix'), copyIndex())]",
+        "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', variables('sitePlanName'))]"
+      },
+      "resources": [
+        {
+          "apiVersion": "2015-08-01",
+          "name": "web",
+          "type": "config",
+          "dependsOn": [
+            "[resourceId('Microsoft.Web/Sites', concat(variables('sitePrefix'), copyIndex()))]"
+          ],
+          "properties": {
+            "scmType": "LocalGit"
+          }
+        }
+      ],
+      "dependsOn": [
+        "[resourceId('Microsoft.Web/serverfarms', variables('sitePlanName'))]"
+      ]
+    }
+  ]
+}
