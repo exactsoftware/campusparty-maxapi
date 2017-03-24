@@ -1,31 +1,32 @@
 [
     {
-        "event": "FORMULA 1 AUSTRALIA",
+        "event": "Formula 1 Rolex Australian Grand Prix",
+        "country": "Australia",
         "schedule": {
             "Free practice 1": {
-                "date": "2016-03-18",
-                "time_from": "01:30+01:00",
-                "time_to": "03:00+01:00"
+                "date": "2017-03-24",
+                "time_from": "02:00+01:00",
+                "time_to": "03:30+01:00"
             },
             "Free practice 2": {
-                "date": "2016-03-18",
-                "time_from": "05:30+01:00",
-                "time_to": "07:00+01:00"
+                "date": "2017-03-24",
+                "time_from": "06:00+01:00",
+                "time_to": "07:30+01:00"
             },
             "Free practice 3": {
-                "date": "2016-03-19",
-                "time_from": "03:00+01:00",
-                "time_to": "04:00+01:00"
+                "date": "2017-03-25",
+                "time_from": "04:00+01:00",
+                "time_to": "05:00+01:00"
             },
             "Qualifying": {
-                "date": "2016-03-19",
-                "time_from": "06:00+01:00",
-                "time_to": "06:00+01:00"
+                "date": "2017-03-25",
+                "time_from": "07:00+01:00",
+                "time_to": "08:00+01:00"
             },
             "Race": {
-                "date": "2016-03-20",
-                "time_from": "05:00+01:00",
-                "time_to": "07:00+01:00"
+                "date": "2017-03-26",
+                "time_from": "07:00+02:00",
+                "time_to": "11:00+02:00"
             }
         },
         "track": {
@@ -35,67 +36,33 @@
         }
     },
     {
-        "event": "FORMULA 1 BAHRAIN",
+        "event": "Formula 1 Pirelli Chinese Grand Prix",
+        "country": "China",
         "schedule": {
             "Free practice 1": {
-                "date": "2016-04-01",
-                "time_from": "12:00+01:00",
-                "time_to": "13:30+01:00"
+                "date": "2017-04-07",
+                "time_from": "04:00+02:00",
+                "time_to": "05:30+02:00"
             },
             "Free practice 2": {
-                "date": "2016-04-01",
-                "time_from": "16:00+01:00",
-                "time_to": "17:30+01:00"
+                "date": "2017-04-07",
+                "time_from": "08:00+02:00",
+                "time_to": "09:30+02:00"
             },
             "Free practice 3": {
-                "date": "2016-04-02",
-                "time_from": "13:00+01:00",
-                "time_to": "14:00+01:00"
+                "date": "2017-04-08",
+                "time_from": "06:00+02:00",
+                "time_to": "07:00+02:00"
             },
             "Qualifying": {
-                "date": "2016-04-02",
-                "time_from": "16:00+01:00",
-                "time_to": "17:00+01:00"
+                "date": "2017-04-08",
+                "time_from": "09:00+02:00",
+                "time_to": "10:00+02:00"
             },
             "Race": {
-                "date": "2016-04-03",
-                "time_from": "16:00+01:00",
-                "time_to": "18:00+01:00"
-            }
-        },
-        "track": {
-            "description": "The Bahrein International Circuit is 3.6 mile race track that hosts the Bahrein Grand Prix since 2004. Because of its location in the desert, the course is notorious for low-grip conditions.",
-            "history": "The track, designed by Hermann Tilke (who also designed Grand Prix tracks in Sepang, Shanghai, Singapore, Istanbul, Valencia and Abu Dhabi) was build in 2003. The inaugural Formula 1 race took place a year later with Micheal Schumacher taking the chequered flag.",
-            "qoute": "The Bahrain circuit is quite a challenge, but I think it is a fun track. Because of the wind and the sand, every lap feels differently, that makes it tricky. The kerbs also are something else: you either don't go there or take them full on. Driving at night under lights is without doubt special."
-        }
-    },
-    {
-        "event": "FORMULA 1 CHINA",
-        "schedule": {
-            "Free practice 1": {
-                "date": "2016-04-15",
-                "time_from": "03:00+01:00",
-                "time_to": "04:30+01:00"
-            },
-            "Free practice 2": {
-                "date": "2016-04-15",
-                "time_from": "07:00+01:00",
-                "time_to": "08:30+01:00"
-            },
-            "Free practice 3": {
-                "date": "2016-04-16",
-                "time_from": "05:00+01:00",
-                "time_to": "06:00+01:00"
-            },
-            "Qualifying": {
-                "date": "2016-04-16",
-                "time_from": "08:00+01:00",
-                "time_to": "09:00+01:00"
-            },
-            "Race": {
-                "date": "2016-04-17",
-                "time_from": "07:00+01:00",
-                "time_to": "09:00+01:00"
+                "date": "2017-04-09",
+                "time_from": "08:00+02:00",
+                "time_to": "12:00+02:00"
             }
         },
         "track": {
@@ -105,32 +72,69 @@
         }
     },
     {
-        "event": "FORMULA 1 RUSSIA",
+        "event": "Formula 1 Bahrein Grand Prix",
+        "country": "Bahrein",
         "schedule": {
             "Free practice 1": {
-                "date": "2016-04-29",
-                "time_from": "08:00+01:00",
-                "time_to": "09:30+01:00"
+                "date": "2017-04-14",
+                "time_from": "13:00+02:00",
+                "time_to": "14:30+02:00"
             },
             "Free practice 2": {
-                "date": "2016-04-29",
-                "time_from": "12:00+01:00",
-                "time_to": "13:30+01:00"
+                "date": "2017-04-14",
+                "time_from": "17:00+02:00",
+                "time_to": "18:30+02:00"
             },
             "Free practice 3": {
-                "date": "2016-04-30",
-                "time_from": "10:00+01:00",
-                "time_to": "11:00+01:00"
+                "date": "2017-04-15",
+                "time_from": "14:00+02:00",
+                "time_to": "15:00+02:00"
             },
             "Qualifying": {
-                "date": "2016-04-30",
-                "time_from": "13:00+01:00",
-                "time_to": "14:00+01:00"
+                "date": "2017-04-15",
+                "time_from": "17:00+02:00",
+                "time_to": "18:00+02:00"
             },
             "Race": {
-                "date": "2016-05-01",
-                "time_from": "13:00+01:00",
-                "time_to": "15:00+01:00"
+                "date": "2017-04-16",
+                "time_from": "17:00+02:00",
+                "time_to": "21:00+02:00"
+            }
+        },
+        "track": {
+            "description": "The Bahrein International Circuit is 3.6 mile race track that hosts the Bahrein Grand Prix since 2004. Because of its location in the desert, the course is notorious for low-grip conditions.",
+            "history": "The track, designed by Hermann Tilke (who also designed Grand Prix tracks in Sepang, Shanghai, Singapore, Istanbul, Valencia and Abu Dhabi) was build in 2003. The inaugural Formula 1 race took place a year later with Micheal Schumacher taking the chequered flag.",
+            "qoute": "The Bahrain circuit is quite a challenge, but I think it is a fun track. Because of the wind and the sand, every lap feels differently, that makes it tricky. The kerbs also are something else: you either don't go there or take them full on. Driving at night under lights is without doubt special."
+        }
+    },
+    {
+        "event": "Formula 1 Russian Grand Prix",
+        "country": "Russia",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2017-04-28",
+                "time_from": "10:00+02:00",
+                "time_to": "11:30+02:00"
+            },
+            "Free practice 2": {
+                "date": "2017-04-28",
+                "time_from": "14:00+02:00",
+                "time_to": "15:30+02:00"
+            },
+            "Free practice 3": {
+                "date": "2017-04-29",
+                "time_from": "11:00+02:00",
+                "time_to": "12:00+02:00"
+            },
+            "Qualifying": {
+                "date": "2017-04-29",
+                "time_from": "14:00+02:00",
+                "time_to": "15:00+02:00"
+            },
+            "Race": {
+                "date": "2017-04-30",
+                "time_from": "14:00+02:00",
+                "time_to": "18:00+02:00"
             }
         },
         "track": {
@@ -140,32 +144,33 @@
         }
     },
     {
-        "event": "FORMULA 1 SPAIN",
+        "event": "Formula 1 Gran Premio de Espana",
+        "country": "Spain",
         "schedule": {
             "Free practice 1": {
-                "date": "2016-05-13",
-                "time_from": "09:00+01:00",
-                "time_to": "10:30+01:00"
+                "date": "2017-05-12",
+                "time_from": "10:00+02:00",
+                "time_to": "11:30+02:00"
             },
             "Free practice 2": {
-                "date": "2016-05-13",
-                "time_from": "13:00+01:00",
-                "time_to": "14:30+01:00"
+                "date": "2017-05-12",
+                "time_from": "14:00+02:00",
+                "time_to": "15:30+02:00"
             },
             "Free practice 3": {
-                "date": "2016-05-14",
-                "time_from": "10:00+01:00",
-                "time_to": "11:00+01:00"
+                "date": "2017-05-13",
+                "time_from": "11:00+02:00",
+                "time_to": "12:00+02:00"
             },
             "Qualifying": {
-                "date": "2016-05-14",
-                "time_from": "13:00+01:00",
-                "time_to": "14:00+01:00"
+                "date": "2017-05-13",
+                "time_from": "14:00+02:00",
+                "time_to": "15:00+02:00"
             },
             "Race": {
-                "date": "2016-05-15",
-                "time_from": "13:00+01:00",
-                "time_to": "15:00+01:00"
+                "date": "2017-05-14",
+                "time_from": "14:00+02:00",
+                "time_to": "18:00+02:00"
             }
         },
         "track": {
@@ -175,32 +180,33 @@
         }
     },
     {
-        "event": "FORMULA 1 MONACO",
+        "event": "Formula 1 Grand Prix de Monaco",
+        "country": "Monaco",
         "schedule": {
             "Free practice 1": {
-                "date": "2016-05-26",
-                "time_from": "09:00+01:00",
-                "time_to": "10:30+01:00"
+                "date": "2017-05-25",
+                "time_from": "10:00+02:00",
+                "time_to": "11:30+02:00"
             },
             "Free practice 2": {
-                "date": "2016-05-26",
-                "time_from": "13:00+01:00",
-                "time_to": "14:30+01:00"
+                "date": "2017-05-25",
+                "time_from": "14:00+02:00",
+                "time_to": "15:30+02:00"
             },
             "Free practice 3": {
-                "date": "2016-05-28",
-                "time_from": "10:00+01:00",
-                "time_to": "11:00+01:00"
+                "date": "2017-05-27",
+                "time_from": "11:00+02:00",
+                "time_to": "12:00+02:00"
             },
             "Qualifying": {
-                "date": "2016-05-28",
-                "time_from": "13:00+01:00",
-                "time_to": "14:00+01:00"
+                "date": "2017-05-27",
+                "time_from": "14:00+02:00",
+                "time_to": "15:00+02:00"
             },
             "Race": {
-                "date": "2016-05-29",
-                "time_from": "13:00+01:00",
-                "time_to": "15:00+01:00"
+                "date": "2017-05-28",
+                "time_from": "14:00+02:00",
+                "time_to": "18:00+02:00"
             }
         },
         "track": {
@@ -210,32 +216,33 @@
         }
     },
     {
-        "event": "FORMULA 1 CANADA",
+        "event": "Formula 1 Grand Prix Du Canada",
+        "country": "Canada",
         "schedule": {
             "Free practice 1": {
-                "date": "2016-06-10",
-                "time_from": "15:00+01:00",
-                "time_to": "16:30+01:00"
+                "date": "2017-06-09",
+                "time_from": "16:00+02:00",
+                "time_to": "17:30+02:00"
             },
             "Free practice 2": {
-                "date": "2016-06-10",
-                "time_from": "19:00+01:00",
-                "time_to": "20:30+01:00"
+                "date": "2017-06-09",
+                "time_from": "20:00+02:00",
+                "time_to": "21:30+02:00"
             },
             "Free practice 3": {
-                "date": "2016-06-11",
-                "time_from": "15:00+01:00",
-                "time_to": "16:00+01:00"
+                "date": "2017-06-10",
+                "time_from": "16:00+02:00",
+                "time_to": "17:00+02:00"
             },
             "Qualifying": {
-                "date": "2016-06-11",
-                "time_from": "18:00+01:00",
-                "time_to": "19:00+01:00"
+                "date": "2017-06-10",
+                "time_from": "19:00+02:00",
+                "time_to": "20:00+02:00"
             },
             "Race": {
-                "date": "2016-06-12",
-                "time_from": "19:00+01:00",
-                "time_to": "21:00+01:00"
+                "date": "2017-06-11",
+                "time_from": "20:00+02:00",
+                "time_to": "23:59+02:00"
             }
         },
         "track": {
@@ -245,67 +252,69 @@
         }
     },
     {
-        "event": "FORMULA 1 EUROPE",
+        "event": "Formula 1 Grand Prix of Europe",
+        "country": "Europe",
         "schedule": {
             "Free practice 1": {
-                "date": "2016-06-17",
-                "time_from": "09:00+01:00",
-                "time_to": "10:30+01:00"
+                "date": "2017-06-23",
+                "time_from": "11:00+02:00",
+                "time_to": "12:30+02:00"
             },
             "Free practice 2": {
-                "date": "2016-06-17",
-                "time_from": "13:00+01:00",
-                "time_to": "14:30+01:00"
+                "date": "2017-06-23",
+                "time_from": "15:00+02:00",
+                "time_to": "16:30+02:00"
             },
             "Free practice 3": {
-                "date": "2016-06-18",
-                "time_from": "10:00+01:00",
-                "time_to": "11:00+01:00"
+                "date": "2017-06-24",
+                "time_from": "12:00+02:00",
+                "time_to": "13:00+02:00"
             },
             "Qualifying": {
-                "date": "2016-06-18",
-                "time_from": "13:00+01:00",
-                "time_to": "14:00+01:00"
+                "date": "2017-06-24",
+                "time_from": "15:00+02:00",
+                "time_to": "17:00+02:00"
             },
             "Race": {
-                "date": "2016-06-19",
-                "time_from": "13:00+01:00",
-                "time_to": "15:00+01:00"
+                "date": "2017-06-25",
+                "time_from": "15:00+02:00",
+                "time_to": "16:00+02:00"
             }
         },
         "track": {
             "description": "The Baku Street Circuit is, as the name says, a streetcircuit in Baku, the capital of Azerbaijan. The track would initially be featured on the 2015 Formula 1-calendar, but was later moved to 2016.",
             "history": "This track also has been designed by Hermann Tilke, who has numerous designs of Formula 1-circuits to his credit. The track has a lenght of 6.006 meters (3.73 miles), has twenty turns and is driven counter clockwise. The paddock and the straight away with start-finish, end up on the square in front of the Government building.",
-            "qoute": ""
+            "qoute": "I look forward to racing on the Baku Street Circuit."
         }
     },
     {
-        "event": "FORMULA 1 AUSTRIA",
+        "event": "Formula 1 Grosser Preis von Osterreich",
+        "country": "Austria",
         "schedule": {
             "Free practice 1": {
-                "date": "2016-07-01",
-                "time_from": "09:00+01:00",
-                "time_to": "10:30+01:00"
+                "date": "2017-07-07",
+                "time_from": "10:00+02:00",
+                "time_to": "11:30+02:00"
             },
             "Free practice 2": {
-                "date": "2016-07-01",
-                "time_from": "13:00+01:00",
-                "time_to": "14:30+01:00"
+                "date": "2017-07-07",
+                "time_from": "14:00+02:00",
+                "time_to": "15:30+02:00"
             },
             "Free practice 3": {
-                "date": "2016-07-02",
-                "time_from": "10:00+01:00",
-                "time_to": "11:00+01:00"
+                "date": "2017-07-08",
+                "time_from": "11:00+02:00",
+                "time_to": "12:00+02:00"
             },
             "Qualifying": {
-                "date": "2016-07-02",
-                "time_from": "13:00+01:00",
-                "time_to": "14:00+01:00"
+                "date": "2017-07-08",
+                "time_from": "14:00+02:00",
+                "time_to": "15:00+02:00"
             },
             "Race": {
-                "date": "2016-07-03",
-                "time_from": "13:00+01:00",
-                "time_to": "15:00+01:00"
+                "date": "2017-07-09",
+                "time_from": "14:00+02:00",
+                "time_to": "18:00+02:00"
             }
         },
         "track": {
@@ -315,32 +324,33 @@
         }
     },
     {
-        "event": "FORMULA 1 GREAT BRITAIN",
+        "event": "Formula 1 British Grand Prix",
+        "country": "Great Britain",
         "schedule": {
             "Free practice 1": {
-                "date": "2016-07-08",
-                "time_from": "10:00+01:00",
-                "time_to": "11:30+01:00"
+                "date": "2017-07-14",
+                "time_from": "10:00+02:00",
+                "time_to": "11:30+02:00"
             },
             "Free practice 2": {
-                "date": "2016-07-08",
-                "time_from": "14:00+01:00",
-                "time_to": "15:30+01:00"
+                "date": "2017-07-14",
+                "time_from": "14:00+02:00",
+                "time_to": "15:30+02:00"
             },
             "Free practice 3": {
-                "date": "2016-07-09",
-                "time_from": "10:00+01:00",
-                "time_to": "11:00+01:00"
+                "date": "2017-07-15",
+                "time_from": "11:00+02:00",
+                "time_to": "12:00+02:00"
             },
             "Qualifying": {
-                "date": "2016-07-09",
-                "time_from": "13:00+01:00",
-                "time_to": "14:00+01:00"
+                "date": "2017-07-15",
+                "time_from": "14:00+02:00",
+                "time_to": "15:00+02:00"
             },
             "Race": {
-                "date": "2016-07-10",
-                "time_from": "13:00+01:00",
-                "time_to": "15:00+01:00"
+                "date": "2017-07-16",
+                "time_from": "14:00+02:00",
+                "time_to": "18:00+02:00"
             }
         },
         "track": {
@@ -350,32 +360,33 @@
         }
     },
     {
-        "event": "FORMULA 1 HUNGARY",
+        "event": "Formula 1 Magyar Nagydij",
+        "country": "Hungary",
         "schedule": {
             "Free practice 1": {
-                "date": "2016-07-22",
-                "time_from": "09:00+01:00",
-                "time_to": "10:30+01:00"
+                "date": "2017-07-28",
+                "time_from": "10:00+02:00",
+                "time_to": "11:30+02:00"
             },
             "Free practice 2": {
-                "date": "2016-07-22",
-                "time_from": "13:00+01:00",
-                "time_to": "14:30+01:00"
+                "date": "2017-07-28",
+                "time_from": "14:00+02:00",
+                "time_to": "15:30+02:00"
             },
             "Free practice 3": {
-                "date": "2016-07-23",
-                "time_from": "10:00+01:00",
-                "time_to": "11:00+01:00"
+                "date": "2017-07-29",
+                "time_from": "11:00+02:00",
+                "time_to": "12:00+02:00"
             },
             "Qualifying": {
-                "date": "2016-07-23",
-                "time_from": "13:00+01:00",
-                "time_to": "14:00+01:00"
+                "date": "2017-07-29",
+                "time_from": "14:00+02:00",
+                "time_to": "15:00+02:00"
             },
             "Race": {
-                "date": "2016-07-24",
-                "time_from": "13:00+01:00",
-                "time_to": "15:00+01:00"
+                "date": "2017-07-30",
+                "time_from": "14:00+02:00",
+                "time_to": "18:00+02:00"
             }
         },
         "track": {
@@ -385,67 +396,33 @@
         }
     },
     {
-        "event": "FORMULA 1 GERMANY",
+        "event": "Formula 1 Belgian Grand Prix",
+        "country": "Belgium",
         "schedule": {
             "Free practice 1": {
-                "date": "2016-07-29",
-                "time_from": "09:00+01:00",
-                "time_to": "10:30+01:00"
+                "date": "2017-08-25",
+                "time_from": "10:00+02:00",
+                "time_to": "11:30+02:00"
             },
             "Free practice 2": {
-                "date": "2016-07-29",
-                "time_from": "13:00+01:00",
-                "time_to": "14:30+01:00"
+                "date": "2017-08-25",
+                "time_from": "14:00+02:00",
+                "time_to": "15:30+02:00"
             },
             "Free practice 3": {
-                "date": "2016-07-30",
-                "time_from": "10:00+01:00",
-                "time_to": "11:00+01:00"
+                "date": "2017-08-26",
+                "time_from": "11:00+02:00",
+                "time_to": "12:00+02:00"
             },
             "Qualifying": {
-                "date": "2016-07-30",
-                "time_from": "13:00+01:00",
-                "time_to": "14:00+01:00"
+                "date": "2017-08-26",
+                "time_from": "14:00+02:00",
+                "time_to": "15:00+02:00"
             },
             "Race": {
-                "date": "2016-07-31",
-                "time_from": "13:00+01:00",
-                "time_to": "15:00+01:00"
-            }
-        },
-        "track": {
-            "description": "The Hockenheimring is a racing track near the German town of Hockenheim in the state of Baden-Württenberg. The circuit was opened in 1932 and to this day remains a venue for Formula 1 Grand Prix.",
-            "history": "The original lay-out of the circuit, measured 7.5 miles in the shape of a triangle. At this stage the course was still a forest road. In these early years, Mercedes-Benz used it as a test track. In 1938, the track was shortened to 4.7 miles and was named the Kurpfalzring. Nine years later, it inherited its current and more famous name. In 1965, a new motorway, the Bundesautobahn 6, split the track in two. Therefore, the circuit was shortened to 4.24 miles. The modification also included the famous 'Motodrom' stadium section. After F1 legend Jim Clark was killed in a Formula 2 racing accident, two fast chicanes were added to the track in 1968.  Nevertheless, the new Hockenheimring remained, together with Monza, one of the fastest Formula 1 tracks and retained its lay-out for over three decades. Lowering the immense speeds and increasing the opportunities to overtake, were among the reasons to reconfigure the track to its current lay-out in 2002. The new circuit, redesigned by Hermann Tilke, was shortened to 2.8 miles and together with the Nürburgring, Hockenheim hosts the German round of the Formula 1 championship.",
-            "qoute": "The first corner at Hockenheim, the Nordkurve, is nice to drive. The 'stadium' section is also good fun. The other parts of the track aren’t that spectacular but in the 'Nordkurve' and the 'stadium', you can really make a difference."
-        }
-    },
-    {
-        "event": "FORMULA 1 BELGIUM",
-        "schedule": {
-            "Free practice 1": {
-                "date": "2016-08-26",
-                "time_from": "09:00+01:00",
-                "time_to": "10:30+01:00"
-            },
-            "Free practice 2": {
-                "date": "2016-08-26",
-                "time_from": "13:00+01:00",
-                "time_to": "14:30+01:00"
-            },
-            "Free practice 3": {
-                "date": "2016-08-27",
-                "time_from": "10:00+01:00",
-                "time_to": "11:00+01:00"
-            },
-            "Qualifying": {
-                "date": "2016-08-27",
-                "time_from": "13:00+01:00",
-                "time_to": "14:00+01:00"
-            },
-            "Race": {
-                "date": "2016-08-28",
-                "time_from": "13:00+01:00",
-                "time_to": "15:00+01:00"
+                "date": "2017-08-27",
+                "time_from": "14:00+02:00",
+                "time_to": "18:00+02:00"
             }
         },
         "track": {
@@ -455,32 +432,33 @@
         }
     },
     {
-        "event": "FORMULA 1 ITALY",
+        "event": "Formula 1 Gran Premio D'Italia",
+        "country": "Italia",
         "schedule": {
             "Free practice 1": {
-                "date": "2016-09-02",
-                "time_from": "09:00+01:00",
-                "time_to": "10:30+01:00"
+                "date": "2017-09-01",
+                "time_from": "10:00+02:00",
+                "time_to": "11:30+02:00"
             },
             "Free practice 2": {
-                "date": "2016-09-02",
-                "time_from": "13:00+01:00",
-                "time_to": "14:30+01:00"
+                "date": "2017-09-01",
+                "time_from": "14:00+02:00",
+                "time_to": "15:30+02:00"
             },
             "Free practice 3": {
-                "date": "2016-09-03",
-                "time_from": "10:00+01:00",
-                "time_to": "11:00+01:00"
+                "date": "2017-09-02",
+                "time_from": "11:00+02:00",
+                "time_to": "12:00+02:00"
             },
             "Qualifying": {
-                "date": "2016-09-03",
-                "time_from": "13:00+01:00",
-                "time_to": "14:00+01:00"
+                "date": "2017-09-02",
+                "time_from": "14:00+02:00",
+                "time_to": "15:00+02:00"
             },
             "Race": {
-                "date": "2016-09-04",
-                "time_from": "13:00+01:00",
-                "time_to": "15:00+01:00"
+                "date": "2017-09-03",
+                "time_from": "14:00+02:00",
+                "time_to": "18:00+02:00"
             }
         },
         "track": {
@@ -490,32 +468,33 @@
         }
     },
     {
-        "event": "FORMULA 1 SINGAPORE",
+        "event": "Formula 1 Singapore Airlines Singapore Grand Prix",
+        "country": "Singapore",
         "schedule": {
             "Free practice 1": {
-                "date": "2016-09-16",
-                "time_from": "11:00+01:00",
-                "time_to": "12:30+01:00"
+                "date": "2017-09-15",
+                "time_from": "12:00+02:00",
+                "time_to": "13:30+02:00"
             },
             "Free practice 2": {
-                "date": "2016-09-16",
-                "time_from": "14:30+01:00",
-                "time_to": "16:00+01:00"
+                "date": "2017-09-15",
+                "time_from": "15:30+02:00",
+                "time_to": "17:00+02:00"
             },
             "Free practice 3": {
-                "date": "2016-09-17",
-                "time_from": "11:00+01:00",
-                "time_to": "12:00+01:00"
+                "date": "2017-09-16",
+                "time_from": "12:00+02:00",
+                "time_to": "13:00+02:00"
             },
             "Qualifying": {
-                "date": "2016-09-17",
-                "time_from": "14:00+01:00",
-                "time_to": "15:00+01:00"
+                "date": "2017-09-16",
+                "time_from": "15:00+02:00",
+                "time_to": "16:00+02:00"
             },
             "Race": {
-                "date": "2016-09-18",
-                "time_from": "13:00+01:00",
-                "time_to": "15:00+01:00"
+                "date": "2017-09-17",
+                "time_from": "14:00+02:00",
+                "time_to": "18:00+02:00"
             }
         },
         "track": {
@@ -525,32 +504,33 @@
         }
     },
     {
-        "event": "FORMULA 1 MALAYSIA",
+        "event": "FORMULA 1 Petronas Malaysia Grand Prix",
+        "country": "Malaysia",
         "schedule": {
             "Free practice 1": {
-                "date": "2016-09-30",
-                "time_from": "03:00+01:00",
-                "time_to": "04:30+01:00"
+                "date": "2017-09-30",
+                "time_from": "05:00+02:00",
+                "time_to": "06:30+02:00"
             },
             "Free practice 2": {
-                "date": "2016-09-30",
-                "time_from": "07:00+01:00",
-                "time_to": "08:30+01:00"
+                "date": "2017-09-30",
+                "time_from": "09:00+02:00",
+                "time_to": "10:30+02:00"
             },
             "Free practice 3": {
-                "date": "2016-10-01",
-                "time_from": "07:00+01:00",
-                "time_to": "08:00+01:00"
+                "date": "2017-10-01",
+                "time_from": "08:00+02:00",
+                "time_to": "09:00+02:00"
             },
             "Qualifying": {
-                "date": "2016-10-01",
-                "time_from": "10:00+01:00",
-                "time_to": "11:00+01:00"
+                "date": "2017-10-01",
+                "time_from": "11:00+02:00",
+                "time_to": "12:00+02:00"
             },
             "Race": {
-                "date": "2016-10-02",
-                "time_from": "08:00+01:00",
-                "time_to": "10:00+01:00"
+                "date": "2017-10-02",
+                "time_from": "09:00+02:00",
+                "time_to": "13:00+02:00"
             }
         },
         "track": {
@@ -560,32 +540,33 @@
         }
     },
     {
-        "event": "FORMULA 1 JAPAN",
+        "event": "Formula 1 Japanese Grand Prix",
+        "country": "Japan",
         "schedule": {
             "Free practice 1": {
-                "date": "2016-10-07",
-                "time_from": "02:00+01:00",
-                "time_to": "03:30+01:00"
+                "date": "2017-10-06",
+                "time_from": "03:00+02:00",
+                "time_to": "04:30+02:00"
             },
             "Free practice 2": {
-                "date": "2016-10-07",
-                "time_from": "06:00+01:00",
-                "time_to": "07:30+01:00"
+                "date": "2017-10-06",
+                "time_from": "07:00+02:00",
+                "time_to": "08:30+02:00"
             },
             "Free practice 3": {
-                "date": "2016-10-08",
-                "time_from": "04:00+01:00",
-                "time_to": "05:00+01:00"
+                "date": "2017-10-07",
+                "time_from": "05:00+02:00",
+                "time_to": "06:00+02:00"
             },
             "Qualifying": {
-                "date": "2016-10-08",
-                "time_from": "07:00+01:00",
-                "time_to": "08:00+01:00"
+                "date": "2017-10-07",
+                "time_from": "08:00+02:00",
+                "time_to": "09:00+02:00"
             },
             "Race": {
-                "date": "2016-10-09",
-                "time_from": "06:00+01:00",
-                "time_to": "08:00+01:00"
+                "date": "2017-10-08",
+                "time_from": "07:00+02:00",
+                "time_to": "11:00+02:00"
             }
         },
         "track": {
@@ -595,32 +576,33 @@
         }
     },
     {
-        "event": "FORMULA 1 USA",
+        "event": "Formula 1 United States Grand Prix",
+        "country": "United States",
         "schedule": {
             "Free practice 1": {
-                "date": "2016-10-21",
-                "time_from": "16:00+01:00",
-                "time_to": "17:30+01:00"
+                "date": "2017-10-20",
+                "time_from": "17:00+02:00",
+                "time_to": "18:30+02:00"
             },
             "Free practice 2": {
-                "date": "2016-10-21",
-                "time_from": "20:00+01:00",
-                "time_to": "21:30+01:00"
+                "date": "2017-10-20",
+                "time_from": "21:00+02:00",
+                "time_to": "22:30+02:00"
             },
             "Free practice 3": {
-                "date": "2016-10-22",
-                "time_from": "16:00+01:00",
-                "time_to": "17:00+01:00"
+                "date": "2017-10-21",
+                "time_from": "18:00+02:00",
+                "time_to": "19:00+02:00"
             },
             "Qualifying": {
-                "date": "2016-10-22",
-                "time_from": "19:00+01:00",
-                "time_to": "20:00+01:00"
+                "date": "2017-10-21",
+                "time_from": "21:00+02:00",
+                "time_to": "22:00+02:00"
             },
             "Race": {
-                "date": "2016-10-23",
-                "time_from": "20:00+01:00",
-                "time_to": "22:00+01:00"
+                "date": "2017-10-22",
+                "time_from": "21:00+02:00",
+                "time_to": "23:00+02:00"
             }
         },
         "track": {
@@ -630,32 +612,33 @@
         }
     },
     {
-        "event": "FORMULA 1 MEXICO",
+        "event": "Formula 1 Gran Premio de Mexico",
+        "country": "Mexico",
         "schedule": {
             "Free practice 1": {
-                "date": "2016-10-28",
-                "time_from": "16:00+01:00",
-                "time_to": "17:30+01:00"
+                "date": "2017-10-27",
+                "time_from": "17:00+02:00",
+                "time_to": "18:30+02:00"
             },
             "Free practice 2": {
-                "date": "2016-10-28",
-                "time_from": "20:00+01:00",
-                "time_to": "21:30+01:00"
+                "date": "2017-10-27",
+                "time_from": "21:00+02:00",
+                "time_to": "22:30+02:00"
             },
             "Free practice 3": {
-                "date": "2016-10-29",
-                "time_from": "16:00+01:00",
-                "time_to": "17:00+01:00"
+                "date": "2017-10-28",
+                "time_from": "17:00+02:00",
+                "time_to": "18:00+02:00"
             },
             "Qualifying": {
-                "date": "2016-10-29",
-                "time_from": "19:00+01:00",
-                "time_to": "20:00+01:00"
+                "date": "2017-10-28",
+                "time_from": "20:00+02:00",
+                "time_to": "21:00+02:00"
             },
             "Race": {
-                "date": "2016-10-30",
-                "time_from": "19:00+01:00",
-                "time_to": "21:00+01:00"
+                "date": "2017-10-29",
+                "time_from": "20:00+01:00",
+                "time_to": "22:00+01:00"
             }
         },
         "track": {
@@ -665,32 +648,33 @@
         }
     },
     {
-        "event": "FORMULA 1 BRAZIL",
+        "event": "Formula 1 Grande Premio do Brasil",
+        "country": "Brazil",
         "schedule": {
             "Free practice 1": {
-                "date": "2016-11-11",
-                "time_from": "12:00+01:00",
-                "time_to": "13:30+01:00"
+                "date": "2017-11-10",
+                "time_from": "13:00+01:00",
+                "time_to": "14:30+01:00"
             },
             "Free practice 2": {
-                "date": "2016-11-11",
-                "time_from": "16:00+01:00",
-                "time_to": "17:30+01:00"
+                "date": "2017-11-10",
+                "time_from": "17:00+01:00",
+                "time_to": "18:30+01:00"
             },
             "Free practice 3": {
-                "date": "2016-11-12",
-                "time_from": "13:00+01:00",
-                "time_to": "14:00+01:00"
+                "date": "2017-11-11",
+                "time_from": "14:00+01:00",
+                "time_to": "15:00+01:00"
             },
             "Qualifying": {
-                "date": "2016-11-12",
-                "time_from": "16:00+01:00",
-                "time_to": "17:00+01:00"
+                "date": "2017-11-11",
+                "time_from": "17:00+01:00",
+                "time_to": "18:00+01:00"
             },
             "Race": {
-                "date": "2016-11-13",
-                "time_from": "16:00+01:00",
-                "time_to": "18:00+01:00"
+                "date": "2017-11-12",
+                "time_from": "17:00+01:00",
+                "time_to": "21:00+01:00"
             }
         },
         "track": {
@@ -700,32 +684,33 @@
         }
     },
     {
-        "event": "FORMULA 1 ABU DHABI",
+        "event": "Formula 1 Etihad Airways Abu Dhabi Grand Prix",
+        "country": "Abu Dhabi",
         "schedule": {
             "Free practice 1": {
-                "date": "2016-11-25",
-                "time_from": "09:00+01:00",
-                "time_to": "10:30+01:00"
+                "date": "2017-11-24",
+                "time_from": "14:00+01:00",
+                "time_to": "15:30+01:00"
             },
             "Free practice 2": {
-                "date": "2016-11-25",
-                "time_from": "13:00+01:00",
-                "time_to": "14:30+01:00"
+                "date": "2017-11-24",
+                "time_from": "18:00+01:00",
+                "time_to": "19:30+01:00"
             },
             "Free practice 3": {
-                "date": "2016-11-26",
-                "time_from": "10:00+01:00",
-                "time_to": "11:00+01:00"
+                "date": "2017-11-25",
+                "time_from": "15:00+01:00",
+                "time_to": "16:00+01:00"
             },
             "Qualifying": {
-                "date": "2016-11-26",
-                "time_from": "13:00+01:00",
-                "time_to": "14:00+01:00"
+                "date": "2017-11-25",
+                "time_from": "18:00+01:00",
+                "time_to": "19:00+01:00"
             },
             "Race": {
-                "date": "2016-11-27",
-                "time_from": "13:00+01:00",
-                "time_to": "15:00+01:00"
+                "date": "2017-11-26",
+                "time_from": "18:00+01:00",
+                "time_to": "20:00+01:00"
             }
         },
         "track": {
